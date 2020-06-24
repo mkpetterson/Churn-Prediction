@@ -1,6 +1,6 @@
 # Predicting Churn in a Ride Share Company
 ![badge](https://img.shields.io/badge/last%20modified-april%20%202020-success)
-![badge](https://img.shields.io/badge/status-in%20progress-yellow)
+![badge](https://img.shields.io/badge/status-completed-success)
 
 <a href="https://github.com/b-weintraub">Ben Weintraub</a> | <a href="https://github.com/redwin21">Eddie Ressegue</a> | <a href="https://github.com/mkpetterson">Maureen Petterson</a>
 
